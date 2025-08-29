@@ -100,12 +100,12 @@ For demo access, collaboration, or code review requests, please contact the main
 ---
 
 ## 📩 Contact
+- **Maintainer:** Muhammad Sachal  
+- **Email:** [sachalm58@gmail.com](mailto:sachalm58@gmail.com)  
+- **Website:** [sachal-portfolio.onrender.com](https://sachal-portfolio.onrender.com/)  
+- **GitHub:** [github.com/Sachal2508](https://github.com/Sachal2508)  
+- **LinkedIn:** [Muhammad Sachal](https://www.linkedin.com/in/muhammad-sachal-9a929136a/)  
 
-**Maintainer:** Muhammad Sachal
-**Email:** sachalm58@gmail.com
-**My Website:**https://sachal-portfolio.onrender.com/
-**GitHub:**https://github.com/Sachal2508
-**LinkedIn:** https://www.linkedin.com/in/muhammad-sachal-9a929136a/
 
 ---
 
