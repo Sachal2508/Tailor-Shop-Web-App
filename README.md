@@ -49,11 +49,11 @@ This repository is a **public showcase** (README + screenshots).
   <tr>
     <td align="center">
       <strong>Dashboard</strong><br/>
-      <img src="screenshots/dashboard.png" alt="Dashboard" width="420"/>
+      <img src="screenshots/Dashboard.png" alt="Dashboard" width="420"/>
     </td>
     <td align="center">
       <strong>Suit Orders</strong><br/>
-      <img src="screenshots/orders.png" alt="Orders" width="420"/>
+      <img src="screenshots/SuitOrders.png" alt="Orders" width="420"/>
     </td>
   </tr>
   <tr>
@@ -63,7 +63,11 @@ This repository is a **public showcase** (README + screenshots).
     </td>
     <td align="center">
       <strong>User Profile & Branding</strong><br/>
-      <img src="screenshots/profile.png" alt="Profile" width="420"/>
+      <img src="screenshots/Customers.png" alt="Customers" width="420"/>
+    </td>
+    <td align="center">
+      <strong>User Profile & Branding</strong><br/>
+      <img src="screenshots/Employees.png" alt="Employees" width="420"/>
     </td>
   </tr>
 </table>
