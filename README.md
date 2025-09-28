@@ -110,7 +110,7 @@ This repository is a **public showcase** (README + screenshots).
     </td>
     <td align="center">
       <strong>Email Notification</strong><br/>
-      <img src="screenshots/Email.jpg" alt="Email" width="280"/>
+      <img src="screenshots/Email.JPG" alt="Email" width="280"/>
     </td>
     <td align="center">
       <strong></strong><br/>
