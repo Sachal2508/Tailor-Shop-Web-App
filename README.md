@@ -60,7 +60,7 @@ This repository is a **public showcase** (README + screenshots).
 
 ### 🧾 **Professional Invoicing**
 * **Branded Invoices** – Generate professional invoices with your shop branding
-* **Invoice Printing/PDF** – Direct printing or PDF export/download capability
+* **Invoice Printing/PDF** – Direct printing or export/download capability
 * **Customer Integration** – Invoices automatically include customer details and measurements
 * **Order Meta Integration** – Complete order information embedded in invoices
 
