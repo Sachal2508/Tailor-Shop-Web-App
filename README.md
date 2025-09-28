@@ -213,8 +213,9 @@ For demo access, collaboration, or code review requests, please contact the main
 
 ## 📄 Invoices – Print & PDF
 
+* **Download as PDF** option available for digital sharing and archival
 * **Direct Printing** capability for immediate physical copies
-* **Automatic Branding** - Your shop name appears on all invoices
+* **Automatic Branding** - Your shop name and logo appear on all invoices
 * **Complete Order Details** - Customer measurements, order specifications, and pricing
 
 > Custom thermal/receipt printing and specialized paper sizes can be implemented on request.
