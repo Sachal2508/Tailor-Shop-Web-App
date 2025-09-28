@@ -60,7 +60,7 @@ This repository is a **public showcase** (README + screenshots).
 
 ### 🧾 **Professional Invoicing**
 * **Branded Invoices** – Generate professional invoices with your shop branding
-* **Invoice Printing/PDF** – Direct printing or PDF export/download capability
+* **Invoice Printing/PDF** – Direct printing of PDF capability
 * **Customer Integration** – Invoices automatically include customer details and measurements
 * **Order Meta Integration** – Complete order information embedded in invoices
 
@@ -110,7 +110,7 @@ This repository is a **public showcase** (README + screenshots).
     </td>
     <td align="center">
       <strong>Email Notification</strong><br/>
-      <img src="screenshots/Email.png" alt="Email" width="280"/>
+      <img src="screenshots/Email.jpg" alt="Email" width="280"/>
     </td>
     <td align="center">
       <strong></strong><br/>
@@ -151,7 +151,7 @@ This repository is a **public showcase** (README + screenshots).
     </td>
     <td align="center">
       <strong>Employee History</strong><br/>
-      <img src="screenshots/Employee History.png" alt="Employee History" width="420"/>
+      <img src="screenshots/Emplyee History.png" alt="Employee History" width="420"/>
     </td>
   </tr>
 </table>
