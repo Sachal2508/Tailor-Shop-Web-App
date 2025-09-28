@@ -91,8 +91,8 @@ This repository is a **public showcase** (README + screenshots).
 <table>
   <tr>
     <td align="center">
-      <strong>Sign In</strong><br/>
-      <img src="screenshots/Sign in.png" alt="Sign In" width="280"/>
+      <strong>Sign Up</strong><br/>
+      <img src="screenshots/Sign up.png" alt="Sign In" width="280"/>
     </td>
     <td align="center">
       <strong>Login</strong><br/>
